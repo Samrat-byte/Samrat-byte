@@ -7,7 +7,7 @@
 Hi, I'm Samrat! 👋
 I'm a Data Scientist with 3+ years of experience across various industries. I specialize in machine learning, artificial intelligence, deep learning, fine-tuning LLMs, data analysis, model deployment and product management with a passion for using data to drive actionable insights and informed decision-making.
 
-🔹 About Me< br / >
+🔹 About Me\
 💼 Currently exploring internships in data science, AI, machine learning, and analytics.< br / >
 🎓 Master's in Information Systems.< br / >
 🌱 Always learning and diving into new areas in AI and cloud computing.< br / >
