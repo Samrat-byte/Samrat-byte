@@ -10,7 +10,7 @@ I'm a **Data Scientist** with 3+ years of experience across various industries. 
 ### 🛠️ My Projects
 - **[Student-Score-Prediction](https://github.com/Samrat-byte/Student-Score-Prediction)** - Predicting student performance using machine learning techniques.
 - **[Chicken-Disease-Classification]** - Image classification model for poultry disease detection.
-- **[Fine-Tuning-Mistral7b]** - Fine-tuning a language model to improve accuracy and reduce processing time.
+- **[Fine-Tuning-Mistral7b](https://github.com/Samrat-byte/Fine-Tuning-Mistral7b)** - Fine-tuning a language model to improve accuracy and reduce processing time.
 - **[RAG Retrieval-Augmented Generation](https://github.com/Samrat-byte/RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant)** - An application using **RAG** to enhance instruction assistance for games.
 - **[Maryland-Finance]** - Team project analyzing and visualizing Maryland’s finance data.
 
