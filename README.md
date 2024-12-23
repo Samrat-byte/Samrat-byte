@@ -8,7 +8,7 @@ I'm a **Data Scientist** with 3+ years of experience across various industries. 
 - 🌱 Always learning and diving into new areas in **AI** and **cloud computing**.
 
 ### 🛠️ My Projects
-- **[Student-Score-Prediction]** - Predicting student performance using machine learning techniques.
+- **[Student-Score-Prediction](https://github.com/Samrat-byte/Student-Score-Prediction)** - Predicting student performance using machine learning techniques.
 - **[Chicken-Disease-Classification]** - Image classification model for poultry disease detection.
 - **[Fine-Tuning-Mistral7b]** - Fine-tuning a language model to improve accuracy and reduce processing time.
 - **[RAG Retrieval-Augmented Generation]** - An application using **RAG** to enhance instruction assistance for games.
