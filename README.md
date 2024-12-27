@@ -12,6 +12,7 @@ I'm a **Data Science and ML Enthusiast** with 3+ years of experience across vari
 - **[Personalized Financial Advisor Chatbot](https://github.com/Samrat-byte/Personalized-Financial-Advisor-Chatbot)** - Chatbot built as a virtual financial advisor for a bank
 - **[Fine-Tuning-Mistral7b](https://github.com/Samrat-byte/Fine-Tuning-Mistral7b)** - Fine-tuning a language model to improve accuracy and reduce processing time.
 - **[RAG Retrieval-Augmented Generation](https://github.com/Samrat-byte/RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant)** - An application using **RAG** to enhance instruction assistance for games.
+- **[Healthcare-Claims-Fraud-Detection-System](https://github.com/Samrat-byte/Healthcare-Claims-Fraud-Detection-System)** - Predicting potential fraudulent Healthcare claims
 - **[Accident Severity Prediction](https://github.com/Samrat-byte/Accident-Severity-Prediction)** - Team project analyzing and visualizing Maryland’s finance data.
 
 
