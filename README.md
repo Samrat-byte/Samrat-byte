@@ -1,6 +1,6 @@
 # Hi, I'm Samrat! 👋
 
-I'm a **Data Scientist** with 3+ years of experience across various industries. I specialize in **machine learning**, **AI**, **deep learning**, **fine-tuning LLMs**, **data analysis**, **model deployment** and **product management** with a passion for using data to drive actionable insights and informed decision-making.
+I'm a **Data Science and ML Enthusiast** with 3+ years of experience across various industries. I specialize in **machine learning**, **AI**, **deep learning**, **fine-tuning LLMs**, **data analysis**, **model deployment** and **product management** with a passion for using data to drive actionable insights and informed decision-making.
 
 ### 🔹 About Me
 - 💼 Currently exploring roles in **data science**, **AI**, **machine learning**, **analytics** and **product management**.
