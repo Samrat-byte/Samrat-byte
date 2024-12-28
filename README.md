@@ -16,6 +16,10 @@ I'm a **Data Science and ML Enthusiast** with 3+ years of experience across vari
 - **[Accident Severity Prediction](https://github.com/Samrat-byte/Accident-Severity-Prediction)** - Predicting the severity of an accident based on various conditions.
 - **[Personalized-music-recommendation-system](https://github.com/Samrat-byte/Personalized-music-recommendation-system)** - Suggests tracks, albums, and playlists based on user preferences and listening history.
 
+### 🛠️ My Case Studies
+- **[Kodak-Case-Study](https://github.com/Samrat-byte/Kodak-Case-Study)**
+- **[Coda-Coffee-and-Bext360-Case-Study](https://github.com/Samrat-byte/Coda-Coffee-and-Bext360-Case-Study)**
+- **[MetroRFID-Case-Study](https://github.com/Samrat-byte/MetroRFID-Case-Study)**
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
