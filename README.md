@@ -5,7 +5,7 @@ I'm a **Data Science and ML Enthusiast** with 3+ years of experience across vari
 ### 🔹 About Me 
 - 💼 Currently exploring roles in **data science**, **AI**, **machine learning**, **analytics** and **product management**.
 - 🎓 Master's in **Information Systems**.
-- 🌱 Always learning and diving into new areas in **AI** and **cloud computing**. 
+- 🌱 Always learning and diving into new areas in **AI** and **cloud computing**.
 
 ### 🛠️ My Projects
 - **[Student-Score-Prediction](https://github.com/Samrat-byte/Student-Score-Prediction)** - Predicting student performance using machine learning techniques.
