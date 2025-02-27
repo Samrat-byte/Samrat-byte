@@ -35,13 +35,6 @@ I'm a **Data Science and ML Enthusiast** with 3+ years of experience across vari
 - **[Coda-Coffee-and-Bext360-Case-Study](https://github.com/Samrat-byte/Coda-Coffee-and-Bext360-Case-Study)**
 - **[MetroRFID-Case-Study](https://github.com/Samrat-byte/MetroRFID-Case-Study)**
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samrat-varun-jajula-a0320a16b/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sjajula@umd.edu)
