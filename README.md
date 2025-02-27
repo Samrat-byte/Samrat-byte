@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samrat-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Samrat-byte" /> </p>
 
-I'm a **Data Science and ML Enthusiast** with 3+ years of experience across various industries. I specialize in **machine learning**, **AI**, **deep learning**, **fine-tuning LLMs**, **data analysis**, **model deployment** and **product management** with a passion for using data to drive actionable insights and informed decision-making.
+I'm a **Data Science and ML Enthusiast** with 3+ years of experience across various industries. I specialize in **machine learning**, **AI**, **deep learning**, **fine-tuning LLMs**, **data analysis**, **model deployment** and **management** with a passion for using data to drive actionable insights and informed decision-making.
 
 ### 🔹 About Me 
 - 💼 Currently exploring roles in **data science**, **AI**, **machine learning** and **analytics**.
