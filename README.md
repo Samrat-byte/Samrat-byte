@@ -1,10 +1,21 @@
+<img align='center' alt="Coding" width=800 src="https://64.media.tumblr.com/d40c6daf51b6b2b7c060b1019574aa06/tumblr_nv3ijoGcGS1qav3uso1_540.gifv">
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samrat+Jajula!;Thankyou+For+Visiting" />
+</h1>
+
+
+<h3 align="center">
+    A passionate Machine Learning / Mathematics enthusiast
+</h3>
+
 # Hi, I'm Samrat! 👋
 
 I'm a **Data Science and ML Enthusiast** with 3+ years of experience across various industries. I specialize in **machine learning**, **AI**, **deep learning**, **fine-tuning LLMs**, **data analysis**, **model deployment** and **product management** with a passion for using data to drive actionable insights and informed decision-making.
 
 ### 🔹 About Me 
-- 💼 Currently exploring roles in **data science**, **AI**, **machine learning**, **analytics** and **product management**.
-- 🎓 Master's in **Information Systems**.
+- 💼 Currently exploring roles in **data science**, **AI**, **machine learning** and **analytics**.
 - 🌱 Always learning and diving into new areas in **AI** and **cloud computing**. 
 
 ### 🛠️ My Projects
