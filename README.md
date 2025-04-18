@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-    A passionate Machine Learning and Mathematics enthusiast with a strong interest in Product Management
+    A passionate Machine Learning and Mathematics enthusiast with a strong interest in SaaS Products
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samrat-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Samrat-byte" /> </p>
